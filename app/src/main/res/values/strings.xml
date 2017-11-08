@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Expense Tracker</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Add Income</string>
+    <string name="action_settings2">Add Expense</string>
+    <string name="title_activity_my_income">MyIncome</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1180657436035721/7771084295</string>
+    <string name="admob_interstitial_id">ca-app-pub-1180657436035721/7246047090</string>
+   <string name="aboutText"> <Html>
+    DISCLAIMER-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.THIS SOFTWARE DOES NOT SEND ANY PERSONAL DATA TO DEVELOPERS AND USES SOME THIRD PARTY
+    SERVICES LIKE "GOOGLE ADMOB", ETC. WHICH MAY COLLECT AND
+    SEND DATA TO SERVICE PROVIDERS AND CAN ACT ACCORDING TO THEIR POLICY. Picture credits- pixabay.com
+    Icon credits-https://icons8.com  Licence-https://creativecommons.org/licenses/by-nd/3.0/
+</Html></string>
+  <!--  <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>-->
+
+</resources>
